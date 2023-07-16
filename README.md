@@ -1,3 +1,3 @@
-# Scroller
+# Easy-Scroller
 
-Simple, easy-to-use scrolling library!@
+Simple, easy-to-use React scrolling library
