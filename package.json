@@ -1,0 +1,17 @@
+{
+  "name": "ggkim0614-scroller",
+  "version": "1.0.0",
+  "description": "super-easy scrolling library",
+  "main": "src/index.js",
+  "author": "George Kim",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.18.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
